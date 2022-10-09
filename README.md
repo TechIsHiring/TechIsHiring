@@ -1,4 +1,4 @@
-### Hi there 👋
+![TechIsHiringLinkedInCompanyHeader](https://user-images.githubusercontent.com/115421011/194771215-c0b6b4c1-01e7-4636-aded-a02280413469.png)
 
 <!--
 **TechIsHiring/TechIsHiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
